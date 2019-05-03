@@ -1,0 +1,14 @@
+C:\Israel\Angular\ScoutBasketball\ScoutBasketball-API\bin\Debug\netcoreapp2.1\ScoutBasketball-API.deps.json
+C:\Israel\Angular\ScoutBasketball\ScoutBasketball-API\bin\Debug\netcoreapp2.1\ScoutBasketball-API.runtimeconfig.json
+C:\Israel\Angular\ScoutBasketball\ScoutBasketball-API\bin\Debug\netcoreapp2.1\ScoutBasketball-API.runtimeconfig.dev.json
+C:\Israel\Angular\ScoutBasketball\ScoutBasketball-API\bin\Debug\netcoreapp2.1\ScoutBasketball-API.dll
+C:\Israel\Angular\ScoutBasketball\ScoutBasketball-API\bin\Debug\netcoreapp2.1\ScoutBasketball-API.pdb
+C:\Israel\Angular\ScoutBasketball\ScoutBasketball-API\obj\Debug\netcoreapp2.1\ScoutBasketball-API.csprojAssemblyReference.cache
+C:\Israel\Angular\ScoutBasketball\ScoutBasketball-API\obj\Debug\netcoreapp2.1\ScoutBasketball-API.csproj.CoreCompileInputs.cache
+C:\Israel\Angular\ScoutBasketball\ScoutBasketball-API\obj\Debug\netcoreapp2.1\ScoutBasketball-API.RazorAssemblyInfo.cache
+C:\Israel\Angular\ScoutBasketball\ScoutBasketball-API\obj\Debug\netcoreapp2.1\ScoutBasketball-API.RazorAssemblyInfo.cs
+C:\Israel\Angular\ScoutBasketball\ScoutBasketball-API\obj\Debug\netcoreapp2.1\ScoutBasketball-API.AssemblyInfoInputs.cache
+C:\Israel\Angular\ScoutBasketball\ScoutBasketball-API\obj\Debug\netcoreapp2.1\ScoutBasketball-API.AssemblyInfo.cs
+C:\Israel\Angular\ScoutBasketball\ScoutBasketball-API\obj\Debug\netcoreapp2.1\ScoutBasketball-API.RazorTargetAssemblyInfo.cache
+C:\Israel\Angular\ScoutBasketball\ScoutBasketball-API\obj\Debug\netcoreapp2.1\ScoutBasketball-API.dll
+C:\Israel\Angular\ScoutBasketball\ScoutBasketball-API\obj\Debug\netcoreapp2.1\ScoutBasketball-API.pdb
